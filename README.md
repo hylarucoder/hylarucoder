@@ -22,3 +22,4 @@
 - 🔭 Python/Django/Flask/FastAPI Typescript/React/Vue
 - 📫 twocucao@gmail.com
 
+![](./docs/images/tifa.gif)
