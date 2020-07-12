@@ -1,3 +1,7 @@
+# Hi I'm twocucao (HylaruCoder) living in 🇨🇳
+
+上海 Pythonista 一枚
+
 ### 谢邀 👋
 
 - 人在上海、刚下航母
