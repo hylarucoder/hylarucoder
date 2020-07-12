@@ -1,7 +1,12 @@
-### Hi there 👋
+### 谢邀 👋
 
-Here are some ideas to get you started:
+- 人在上海、刚下航母
+- 普本毕业、长相彦祖
+- 代码风骚、心无旁骛
+- 涉猎颇广、派森老祖
+- 熟人太多、千星再补
 
-- 🔭 I’m currently working on Python/Django/Flask React/Vue
-- 📫 How to reach me: twocucao@gmail.com
+
+- 🔭 Python/Django/Flask/FastAPI Typescript/React/Vue
+- 📫 twocucao@gmail.com
 
