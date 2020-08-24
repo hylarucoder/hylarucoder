@@ -1,8 +1,8 @@
-# Hi I'm twocucao (HylaruCoder) living in 🇨🇳
+# Hi I'm twocucao living in 🇨🇳
+
+## Intro
 
 上海 Pythonista 一枚
-
-## 谢邀 👋
 
 - 人在上海、刚下航母
 - 普本毕业、长相彦祖
@@ -10,12 +10,24 @@
 - 涉猎颇广、心无旁骛
 - 熟人太多、千星再补
 
-## 联系我
+## 技术栈
 
-- 🔭 Python/Django/Flask/FastAPI Typescript/React/Vue
-- 📫 twocucao@gmail.com
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+</p>
 
-### 🗣 My activity:
+## BLOG
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
 - [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3080604986/)
