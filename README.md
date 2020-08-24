@@ -35,6 +35,7 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想读 刑法学讲义](https://www.douban.com/doubanapp/dispatch?uri=/status/3081360140/)
 - [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3080604986/)
 - [玩过 对马岛之鬼 Ghost of Tsushima](https://www.douban.com/doubanapp/dispatch?uri=/status/3080374354/)
 - [想看 福尔摩斯小姐 Enola Holmes‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3073563987/)
@@ -44,5 +45,4 @@
 - [想听 安和桥北](https://www.douban.com/doubanapp/dispatch?uri=/status/3035308895/)
 - [想听 Mojito](https://www.douban.com/doubanapp/dispatch?uri=/status/3035307800/)
 - [想看 隐秘的角落‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3035306526/)
-- [加入 上海租房---房子是租来的，生活不是](https://www.douban.com/doubanapp/dispatch?uri=/status/3015843321/)
 <!-- DOUBAN-ACTIVITIES:END -->
