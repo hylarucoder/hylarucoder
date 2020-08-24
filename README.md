@@ -15,4 +15,7 @@
 - 🔭 Python/Django/Flask/FastAPI Typescript/React/Vue
 - 📫 twocucao@gmail.com
 
-[![twocucao](https://github-readme-stats.vercel.app/api?username=twocucao)](https://github.com/twocucao/twocucao)
+### 🗣 My activity:
+
+<!-- DOUBAN-ACTIVITIES:START -->
+<!-- DOUBAN-ACTIVITIES:END -->
