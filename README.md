@@ -25,6 +25,11 @@
 ## BLOG
 
 <!-- BLOG-POST-LIST:START -->
+- [旅拍 Vlog CheatSheet](http://twocucao.xyz/2018/12/23/VlogCheatSheet/)
+- [Python Type Anotation 你需要知道的一切](http://twocucao.xyz/2018/12/10/PythonTypeAnotation/)
+- [Final Cut Pro X CheatSheet](http://twocucao.xyz/2018/11/25/FinalCutProX/)
+- [Thinking In Programming Language](http://twocucao.xyz/2018/09/17/ThinkingInProgrammingLanguage/)
+- [Thinking In Web Developing](http://twocucao.xyz/2018/09/04/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 豆瓣动态
