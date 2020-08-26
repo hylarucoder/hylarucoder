@@ -35,6 +35,8 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 是，首相 第一季 Yes, Prime Minister Season 1‎ (1986)](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870213/)
+- [想看 是，大臣  第一季 Yes Minister Season 1‎ (1980)](https://www.douban.com/doubanapp/dispatch?uri=/status/3082869807/)
 - [加入 世界拍照最烂小组](https://www.douban.com/doubanapp/dispatch?uri=/status/3082558733/)
 - [想读 刑法学讲义](https://www.douban.com/doubanapp/dispatch?uri=/status/3081360140/)
 - [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3080604986/)
@@ -43,6 +45,4 @@
 - [加入 喜欢跑步的人](https://www.douban.com/doubanapp/dispatch?uri=/status/3044974416/)
 - [想听 南山南](https://www.douban.com/doubanapp/dispatch?uri=/status/3035309603/)
 - [想听 我要你](https://www.douban.com/doubanapp/dispatch?uri=/status/3035309099/)
-- [想听 安和桥北](https://www.douban.com/doubanapp/dispatch?uri=/status/3035308895/)
-- [想听 Mojito](https://www.douban.com/doubanapp/dispatch?uri=/status/3035307800/)
 <!-- DOUBAN-ACTIVITIES:END -->
