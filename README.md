@@ -35,6 +35,8 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想读 是，大臣](https://www.douban.com/doubanapp/dispatch?uri=/status/3082871316/)
+- [想读 是，首相](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870868/)
 - [想看 是，首相 第一季 Yes, Prime Minister Season 1‎ (1986)](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870213/)
 - [想看 是，大臣  第一季 Yes Minister Season 1‎ (1980)](https://www.douban.com/doubanapp/dispatch?uri=/status/3082869807/)
 - [加入 世界拍照最烂小组](https://www.douban.com/doubanapp/dispatch?uri=/status/3082558733/)
@@ -43,6 +45,4 @@
 - [玩过 对马岛之鬼 Ghost of Tsushima](https://www.douban.com/doubanapp/dispatch?uri=/status/3080374354/)
 - [想看 福尔摩斯小姐 Enola Holmes‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3073563987/)
 - [加入 喜欢跑步的人](https://www.douban.com/doubanapp/dispatch?uri=/status/3044974416/)
-- [想听 南山南](https://www.douban.com/doubanapp/dispatch?uri=/status/3035309603/)
-- [想听 我要你](https://www.douban.com/doubanapp/dispatch?uri=/status/3035309099/)
 <!-- DOUBAN-ACTIVITIES:END -->
