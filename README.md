@@ -35,6 +35,7 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3123085475/)
 - [想读 是，大臣](https://www.douban.com/doubanapp/dispatch?uri=/status/3082871316/)
 - [想读 是，首相](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870868/)
 - [想看 是，首相 第一季 Yes, Prime Minister Season 1‎ (1986)](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870213/)
@@ -44,5 +45,4 @@
 - [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3080604986/)
 - [玩过 对马岛之鬼 Ghost of Tsushima](https://www.douban.com/doubanapp/dispatch?uri=/status/3080374354/)
 - [想看 福尔摩斯小姐 Enola Holmes‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3073563987/)
-- [加入 喜欢跑步的人](https://www.douban.com/doubanapp/dispatch?uri=/status/3044974416/)
 <!-- DOUBAN-ACTIVITIES:END -->
