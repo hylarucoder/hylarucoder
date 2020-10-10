@@ -35,6 +35,9 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 花木兰 Mulan‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712489/)
+- [看过 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712358/)
+- [看过 姜子牙‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712168/)
 - [想看 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3123085475/)
 - [想读 是，大臣](https://www.douban.com/doubanapp/dispatch?uri=/status/3082871316/)
 - [想读 是，首相](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870868/)
@@ -42,7 +45,4 @@
 - [想看 是，大臣  第一季 Yes Minister Season 1‎ (1980)](https://www.douban.com/doubanapp/dispatch?uri=/status/3082869807/)
 - [加入 世界拍照最烂小组](https://www.douban.com/doubanapp/dispatch?uri=/status/3082558733/)
 - [想读 刑法学讲义](https://www.douban.com/doubanapp/dispatch?uri=/status/3081360140/)
-- [看过 八佰‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3080604986/)
-- [玩过 对马岛之鬼 Ghost of Tsushima](https://www.douban.com/doubanapp/dispatch?uri=/status/3080374354/)
-- [想看 福尔摩斯小姐 Enola Holmes‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3073563987/)
 <!-- DOUBAN-ACTIVITIES:END -->
