@@ -22,6 +22,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
+[Knowledge Repo, all my tech stack](https://github.com/twocucao/knowledge-repo)
+
 ## BLOG
 
 <!-- BLOG-POST-LIST:START -->
