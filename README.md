@@ -37,14 +37,14 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想读 大败局Ⅱ](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037764/)
+- [想读 历代经济变革得失](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037722/)
+- [想读 激荡三十年](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037667/)
+- [在读 结构性改革](https://www.douban.com/doubanapp/dispatch?uri=/status/3153036231/)
 - [想看 花木兰 Mulan‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712489/)
 - [看过 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712358/)
 - [看过 姜子牙‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712168/)
 - [想看 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3123085475/)
 - [想读 是，大臣](https://www.douban.com/doubanapp/dispatch?uri=/status/3082871316/)
 - [想读 是，首相](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870868/)
-- [想看 是，首相 第一季 Yes, Prime Minister Season 1‎ (1986)](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870213/)
-- [想看 是，大臣  第一季 Yes Minister Season 1‎ (1980)](https://www.douban.com/doubanapp/dispatch?uri=/status/3082869807/)
-- [加入 世界拍照最烂小组](https://www.douban.com/doubanapp/dispatch?uri=/status/3082558733/)
-- [想读 刑法学讲义](https://www.douban.com/doubanapp/dispatch?uri=/status/3081360140/)
 <!-- DOUBAN-ACTIVITIES:END -->
