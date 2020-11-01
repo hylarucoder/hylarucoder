@@ -37,14 +37,14 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 金陵十三钗‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158829251/)
+- [想看 岁月神偷 歲月神偷‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158828971/)
+- [想看 比利·林恩的中场战事 Billy Lynn's Long Halftime Walk‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158828648/)
+- [想看 解构爱情狂 Deconstructing Harry‎ (1997)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158828281/)
+- [想看 大都会 メトロポリス‎ (2001)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158828027/)
 - [想读 大败局Ⅱ](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037764/)
 - [想读 历代经济变革得失](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037722/)
 - [想读 激荡三十年](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037667/)
 - [在读 结构性改革](https://www.douban.com/doubanapp/dispatch?uri=/status/3153036231/)
 - [想看 花木兰 Mulan‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712489/)
-- [看过 信条 Tenet‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712358/)
-- [看过 姜子牙‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712168/)
-- [想看 半泽直树2 半沢直樹2‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3123085475/)
-- [想读 是，大臣](https://www.douban.com/doubanapp/dispatch?uri=/status/3082871316/)
-- [想读 是，首相](https://www.douban.com/doubanapp/dispatch?uri=/status/3082870868/)
 <!-- DOUBAN-ACTIVITIES:END -->
