@@ -37,14 +37,14 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [想看 金陵十三钗‎ (2011)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158829251/)
-- [想看 岁月神偷 歲月神偷‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158828971/)
-- [想看 比利·林恩的中场战事 Billy Lynn's Long Halftime Walk‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158828648/)
-- [想看 解构爱情狂 Deconstructing Harry‎ (1997)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158828281/)
-- [想看 大都会 メトロポリス‎ (2001)](https://www.douban.com/doubanapp/dispatch?uri=/status/3158828027/)
-- [想读 大败局Ⅱ](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037764/)
-- [想读 历代经济变革得失](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037722/)
-- [想读 激荡三十年](https://www.douban.com/doubanapp/dispatch?uri=/status/3153037667/)
-- [在读 结构性改革](https://www.douban.com/doubanapp/dispatch?uri=/status/3153036231/)
-- [想看 花木兰 Mulan‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3133712489/)
+- [想读 枪炮、病菌与钢铁](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833300/)
+- [想读 亮剑](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833186/)
+- [想读 经济学原理（上下）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833054/)
+- [想读 人生的智慧](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832874/)
+- [想读 爱你就像爱生命](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832546/)
+- [想读 史记（全十册）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832322/)
+- [想读 明朝那些事儿（1-9）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832008/)
+- [想读 三体全集](https://www.douban.com/doubanapp/dispatch?uri=/status/3170831878/)
+- [想读 飘](https://www.douban.com/doubanapp/dispatch?uri=/status/3170831798/)
+- [想读 洞见](https://www.douban.com/doubanapp/dispatch?uri=/status/3170831595/)
 <!-- DOUBAN-ACTIVITIES:END -->
