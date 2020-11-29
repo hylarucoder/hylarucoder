@@ -27,11 +27,11 @@
 ## BLOG
 
 <!-- BLOG-POST-LIST:START -->
-- [旅拍 Vlog CheatSheet](http://twocucao.xyz/2018/12/23/VlogCheatSheet/)
-- [Python Type Anotation 你需要知道的一切](http://twocucao.xyz/2018/12/10/PythonTypeAnotation/)
-- [Final Cut Pro X CheatSheet](http://twocucao.xyz/2018/11/25/FinalCutProX/)
-- [Thinking In Programming Language](http://twocucao.xyz/2018/09/17/ThinkingInProgrammingLanguage/)
-- [Thinking In Web Developing](http://twocucao.xyz/2018/09/04/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0/)
+- [开源认证基础服务](http://twocucao.xyz/2020/11/29/_ory/)
+- [写给 Pythonista 的 Golang 入门指北](http://twocucao.xyz/2019/05/15/GoLang/)
+- [如何优雅的使用 Windows 10](http://twocucao.xyz/2019/04/13/%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E4%BD%BF%E7%94%A8Windows10/)
+- [一文解决你的 Python ORM 选择困难症](http://twocucao.xyz/2019/04/12/Mapping/)
+- [秒杀系统的一些注意点](http://twocucao.xyz/2019/02/10/%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E6%B3%A8%E6%84%8F%E7%82%B9/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 豆瓣动态
