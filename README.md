@@ -37,6 +37,7 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 父子雄兵‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3217275276/)
 - [玩过 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/doubanapp/dispatch?uri=/status/3217242709/)
 - [想读 枪炮、病菌与钢铁](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833300/)
 - [想读 亮剑](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833186/)
@@ -46,5 +47,4 @@
 - [想读 史记（全十册）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832322/)
 - [想读 明朝那些事儿（1-9）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832008/)
 - [想读 三体全集](https://www.douban.com/doubanapp/dispatch?uri=/status/3170831878/)
-- [想读 飘](https://www.douban.com/doubanapp/dispatch?uri=/status/3170831798/)
 <!-- DOUBAN-ACTIVITIES:END -->
