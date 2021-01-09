@@ -37,6 +37,9 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [看过 黑镜 第三季 Black Mirror Season 3‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249529963/)
+- [想看 生活大爆炸  第一季 The Big Bang Theory Season 1‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249528524/)
+- [看过 猎魔人 第一季 The Witcher Season 1‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249513875/)
 - [看过 父子雄兵‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3217275276/)
 - [玩过 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/doubanapp/dispatch?uri=/status/3217242709/)
 - [想读 枪炮、病菌与钢铁](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833300/)
@@ -44,7 +47,4 @@
 - [想读 经济学原理（上下）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833054/)
 - [想读 人生的智慧](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832874/)
 - [想读 爱你就像爱生命](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832546/)
-- [想读 史记（全十册）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832322/)
-- [想读 明朝那些事儿（1-9）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832008/)
-- [想读 三体全集](https://www.douban.com/doubanapp/dispatch?uri=/status/3170831878/)
 <!-- DOUBAN-ACTIVITIES:END -->
