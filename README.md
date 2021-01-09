@@ -37,14 +37,14 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
-- [看过 黑镜 第三季 Black Mirror Season 3‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249529963/)
-- [想看 生活大爆炸  第一季 The Big Bang Theory Season 1‎ (2007)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249528524/)
-- [看过 猎魔人 第一季 The Witcher Season 1‎ (2019)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249513875/)
-- [看过 父子雄兵‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3217275276/)
-- [玩过 赛博朋克2077 Cyberpunk 2077](https://www.douban.com/doubanapp/dispatch?uri=/status/3217242709/)
-- [想读 枪炮、病菌与钢铁](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833300/)
-- [想读 亮剑](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833186/)
-- [想读 经济学原理（上下）](https://www.douban.com/doubanapp/dispatch?uri=/status/3170833054/)
-- [想读 人生的智慧](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832874/)
-- [想读 爱你就像爱生命](https://www.douban.com/doubanapp/dispatch?uri=/status/3170832546/)
+- [看过 逃避虽可耻但有用 逃げるは恥だが役に立つ‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249629397/)
+- [想看 贫嘴张大民的幸福生活‎ (2000)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249628638/)
+- [想看 手机‎ (2010)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249627546/)
+- [想看 我爱我家‎ (1993)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249626638/)
+- [想看 大宅门‎ (2001)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249626484/)
+- [想看 傲骨之战 第四季 The Good Fight Season 4‎ (2020)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249547647/)
+- [想看 超感猎杀：圣诞特别篇 Sense8: A Christmas Special‎ (2016)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249543008/)
+- [想看 超感猎杀 第二季 Sense8 Season 2‎ (2017)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249534960/)
+- [想看 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249534536/)
+- [想看 超感猎杀 第一季 Sense8 Season 1‎ (2015)](https://www.douban.com/doubanapp/dispatch?uri=/status/3249534248/)
 <!-- DOUBAN-ACTIVITIES:END -->
