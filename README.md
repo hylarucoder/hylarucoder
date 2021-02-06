@@ -37,6 +37,7 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [加入 今天你写bug了么?](https://www.douban.com/people/51945165/status/3288659860/)
 - [看过 逃避虽可耻但有用 逃げるは恥だが役に立つ‎ (2016)](https://www.douban.com/people/51945165/status/3249629397/)
 - [想看 贫嘴张大民的幸福生活‎ (2000)](https://www.douban.com/people/51945165/status/3249628638/)
 - [想看 手机‎ (2010)](https://www.douban.com/people/51945165/status/3249627546/)
@@ -46,5 +47,4 @@
 - [想看 超感猎杀：圣诞特别篇 Sense8: A Christmas Special‎ (2016)](https://www.douban.com/people/51945165/status/3249543008/)
 - [想看 超感猎杀 第二季 Sense8 Season 2‎ (2017)](https://www.douban.com/people/51945165/status/3249534960/)
 - [想看 西部世界 第二季 Westworld Season 2‎ (2018)](https://www.douban.com/people/51945165/status/3249534536/)
-- [想看 超感猎杀 第一季 Sense8 Season 1‎ (2015)](https://www.douban.com/people/51945165/status/3249534248/)
 <!-- DOUBAN-ACTIVITIES:END -->
