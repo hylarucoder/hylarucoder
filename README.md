@@ -37,6 +37,8 @@
 ## 豆瓣动态
 
 <!-- DOUBAN-ACTIVITIES:START -->
+- [想看 半泽直树 半沢直樹‎ (2013)](https://www.douban.com/people/51945165/status/3311542722/)
+- [想看 庆余年 第一季‎ (2019)](https://www.douban.com/people/51945165/status/3311542482/)
 - [看过 唐人街探案3‎ (2021)](https://www.douban.com/people/51945165/status/3311540637/)
 - [加入 今天你写bug了么?](https://www.douban.com/people/51945165/status/3288659860/)
 - [看过 逃避虽可耻但有用 逃げるは恥だが役に立つ‎ (2016)](https://www.douban.com/people/51945165/status/3249629397/)
@@ -45,6 +47,4 @@
 - [想看 我爱我家‎ (1993)](https://www.douban.com/people/51945165/status/3249626638/)
 - [想看 大宅门‎ (2001)](https://www.douban.com/people/51945165/status/3249626484/)
 - [想看 傲骨之战 第四季 The Good Fight Season 4‎ (2020)](https://www.douban.com/people/51945165/status/3249547647/)
-- [想看 超感猎杀：圣诞特别篇 Sense8: A Christmas Special‎ (2016)](https://www.douban.com/people/51945165/status/3249543008/)
-- [想看 超感猎杀 第二季 Sense8 Season 2‎ (2017)](https://www.douban.com/people/51945165/status/3249534960/)
 <!-- DOUBAN-ACTIVITIES:END -->
