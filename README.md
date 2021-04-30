@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
-
+<p align="left">
 <img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/metrics.svg">
 <a href="https://twocucao.xyz"><img alt="🦁" align="right" width="400px" src="https://github.com/twocucao/twocucao/blob/master/rss.svg"></a>
 <img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/calendar.svg">
@@ -30,6 +30,7 @@
 <img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/languages.svg">
 <img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/activity.svg">
 <img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/stack.svg">
+</p>
 
 ## BLOG
 
@@ -46,8 +47,8 @@
 <!-- DOUBAN-ACTIVITIES:START -->
 - [想看 半泽直树 半沢直樹‎ (2013)](https://www.douban.com/people/51945165/status/3311542722/)
 - [想看 庆余年 第一季‎ (2019)](https://www.douban.com/people/51945165/status/3311542482/)
-- [看过 唐人街探案3‎ (2021)](https://www.douban.com/people/51945165/status/3311540637/)
-- [加入 今天你写bug了么?](https://www.douban.com/people/51945165/status/3288659860/)
+- [看过 唐人街探案 3‎ (2021)](https://www.douban.com/people/51945165/status/3311540637/)
+- [加入 今天你写 bug 了么？](https://www.douban.com/people/51945165/status/3288659860/)
 - [看过 逃避虽可耻但有用 逃げるは恥だが役に立つ‎ (2016)](https://www.douban.com/people/51945165/status/3249629397/)
 - [想看 贫嘴张大民的幸福生活‎ (2000)](https://www.douban.com/people/51945165/status/3249628638/)
 - [想看 手机‎ (2010)](https://www.douban.com/people/51945165/status/3249627546/)
