@@ -12,11 +12,24 @@
 
 ## 技术栈
 
-<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/metrics.svg">
-<a href="https://twocucao.xyz"><img alt="🦁" align="right" width="400px" src="https://github.com/twocucao/twocucao/blob/master/rss.svg"></a>
-<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/calendar.svg">
-<img alt="🦁" align="right" width="400px" src="https://github.com/twocucao/twocucao/blob/master/habits.svg">
-<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/languages.svg">
-<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/activity.svg">
-<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/stack.svg">
+<img alt="🦁" src="https://github.com/twocucao/twocucao/blob/master/languages.svg">
 
+## 习惯
+
+<img alt="🦁" src="https://github.com/twocucao/twocucao/blob/master/habits.svg">
+
+## 博客
+
+<a href="https://twocucao.xyz"><img alt="🦁" src="https://github.com/twocucao/twocucao/blob/master/rss.svg"></a>
+
+## 日历
+
+<img alt="🦁" src="https://github.com/twocucao/twocucao/blob/master/calendar.svg">
+
+## 活动
+
+<img alt="🦁" src="https://github.com/twocucao/twocucao/blob/master/activity.svg">
+
+## 统计
+
+<img alt="🦁" src="https://github.com/twocucao/twocucao/blob/master/metrics.svg">
