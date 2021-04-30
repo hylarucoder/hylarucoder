@@ -22,9 +22,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
-[Knowledge Repo, all my tech stack](https://github.com/twocucao/knowledge-repo)
 
-
+<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/metrics.svg">
+<a href="https://twocucao.xyz"><img alt="🦁" align="right" width="400px" src="https://github.com/twocucao/twocucao/blob/master/rss.svg"></a>
+<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/calendar.svg">
+<img alt="🦁" align="right" width="400px" src="https://github.com/twocucao/twocucao/blob/master/habits.svg">
+<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/languages.svg">
+<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/activity.svg">
+<img alt="🦁" align="left" width="400px" src="https://github.com/twocucao/twocucao/blob/master/stack.svg">
 
 ## BLOG
 
