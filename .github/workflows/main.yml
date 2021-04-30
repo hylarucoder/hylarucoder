@@ -102,5 +102,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_rss: yes
-          plugin_rss_source: https://domenicoluciani.com/feed.xml # RSS feed
+          plugin_rss_source: http://twocucao.xyz/atom.xml # RSS feed
           plugin_rss_limit: 5 # Limit to 6 items
