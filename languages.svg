@@ -1105,14 +1105,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="255.35097898823253" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="255.35097898823253" y="0" width="93.94766431294529" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="349.29864330117783" y="0" width="35.96337305213101" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="385.26201635330887" y="0" width="26.730266608911943" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="411.9922829622208" y="0" width="19.911328383455434" height="8" fill="#6594b9"/>
-                    <rect mask="url(#languages-bar)" x="431.90361134567627" y="0" width="17.633462591992473" height="8" fill="#2c3e50"/>
-                    <rect mask="url(#languages-bar)" x="449.5370739376687" y="0" width="6.663551246773244" height="8" fill="#F18E33"/>
-                    <rect mask="url(#languages-bar)" x="456.20062518444195" y="0" width="3.7993748155580827" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="249.5500959384395" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="249.5500959384395" y="0" width="81.8824963698004" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="331.4325923082399" y="0" width="49.638454761869305" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="381.0710470701093" y="0" width="30.49979164214748" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="411.5708387122567" y="0" width="22.669385347394652" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="434.2402240596514" y="0" width="16.886385104463468" height="8" fill="#6594b9"/>
+                    <rect mask="url(#languages-bar)" x="451.1266091641148" y="0" width="5.65121976541945" height="8" fill="#F18E33"/>
+                    <rect mask="url(#languages-bar)" x="456.77782892953434" y="0" width="3.2221710704657487" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1122,6 +1122,10 @@
                     <div class="field center no-wrap language">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
               JavaScript
+            </div>
+                    <div class="field center no-wrap language">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+              Vue
             </div>
                     <div class="field center no-wrap language">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
@@ -1134,10 +1138,6 @@
                     <div class="field center no-wrap language">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#6594b9" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
               AutoHotkey
-            </div>
-                    <div class="field center no-wrap language">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-              Vue
             </div>
                     <div class="field center no-wrap language">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#F18E33" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
